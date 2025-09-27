@@ -11,7 +11,7 @@ Thuật toán mã hoá, thuật toán giải mã
 Không gian khóa  
 Cách phá mã (mà không cần khoá)  
 Cài đặt thuật toán mã hoá và giải mã bằng code C++ và bằng html+css+javascript  
-## (cách sử dụng HTML em đều gộp chung vào 1 file Index nó gổm cả html css js trong 1 file code )
+## (cách sử dụng HTML em đều gộp chung vào 1 file Index gồm cả html css js trong 1 file code )
 # 1. Caesar (Shift Cipher)
  Tên: Caesar cipher  
  Thuật toán mã hoá / giải mã (A=0..25):  
